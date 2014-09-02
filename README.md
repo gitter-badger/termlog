@@ -5,5 +5,5 @@ using 'script' and organized script files.
  - Add it to your own bashrc
  - Give him/her the command to use to see :
 
-	$ scriptreplay user+date-time.*
+	$ scriptreplay $DESTDIR/user_date-time.*
 
